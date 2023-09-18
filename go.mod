@@ -7,7 +7,7 @@ require (
 	github.com/fatih/color v1.15.0
 	github.com/gin-contrib/sse v0.1.0
 	github.com/gin-gonic/examples v0.0.0-20230226014248-fdef5bbd945a
-	github.com/go-playground/validator/v10 v10.15.1
+	github.com/go-playground/validator/v10 v10.15.4
 	github.com/goccy/go-json v0.10.2
 	github.com/json-iterator/go v1.1.12
 	github.com/mattn/go-colorable v0.1.13
